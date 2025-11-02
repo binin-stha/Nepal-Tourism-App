@@ -58,11 +58,11 @@ If you encounter JavaFX errors, you may need to add JavaFX modules to your comma
 java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -jar Paryatan_Nepal.jar
 
 
-Contributing
+## **Contributing**
 Contributions are welcome! Please open issues or submit pull requests for improvements.
 
-License
+## **License**
 This project is licensed under the MIT License.
 
-Developed by:
+## **Developed by:**
 Binin Dhon Shrestha
